@@ -1,0 +1,96 @@
+{
+  "security.workspace.trust.untrustedFiles": "prompt",
+  "javascript.updateImportsOnFileMove.enabled": "prompt",
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "prettier.trailingComma": "none",
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 4,
+  "prettier.useTabs": false,
+  "prettier.bracketSpacing": true,
+  "prettier.useEditorConfig": false,
+  "prettier.configPath": ".vscode/.prettierrc",
+
+  "git.suggestSmartCommit": true,
+
+  "bracketPairColorizer.depreciation-notice": false,
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "bracketPairColorizer.showBracketsInGutter": true,
+
+  "workbench.iconTheme": "material-icon-theme",
+
+  "todo-tree.highlights.enabled": false,
+  "todo-tree.general.tags": ["BUG", "TODO", "FIXME"],
+  "todo-tree.general.tagGroups": {
+    "FIXME": ["BUG", "FIXME", "FIXIT", "FIX"]
+  },
+
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "bug",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "fixme",
+      "color": "gold",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ]
+}

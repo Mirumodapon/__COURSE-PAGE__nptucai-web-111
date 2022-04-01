@@ -1,0 +1,37 @@
+{
+  "recommendations": [
+    // ! code prettier
+    "esbenp.prettier-vscode",
+    // "stylelint.vscode-stylelint",
+    // "editorconfig.editorconfig",
+
+    // ! vscode style
+    "pkief.material-icon-theme",
+
+    // ! tools
+    "vscodevim.vim",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "humao.rest-client",
+    "gruntfuggly.todo-tree",
+    "streetsidesoftware.code-spell-checker",
+    "adpyke.codesnap",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers"
+
+    // ! code support
+    "naumovs.color-highlight",
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer",
+    // "oderwat.indent-rainbow",
+
+    // ! language support
+    "formulahendry.auto-rename-tag"
+    // "formulahendry.auto-close-tag",
+    // "burkeholland.simple-react-snippets",
+    // "msjsdiag.vscode-react-native",
+    // "hollowtree.vue-snippets",
+    // "johnsoncodehk.volar",
+    // "abusaidm.html-snippets"
+  ]
+}
