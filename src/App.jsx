@@ -7,6 +7,7 @@ import TabPanel from '@mui/lab/TabPanel';
 
 import Home from './Home';
 import Resources from './Resources';
+import Info from './Info';
 
 import './index.css';
 
@@ -32,7 +33,9 @@ export default function App() {
       <TabPanel value="Resources">
         <Resources />
       </TabPanel>
-      <TabPanel value="Info">Info</TabPanel>
+      <TabPanel value="Info">
+        <Info />
+      </TabPanel>
     </TabContext>
   );
 }

@@ -1,5 +1,5 @@
-import { Box } from '@mui/system';
 import React, { useState, useEffect } from 'react';
+import Box from '@mui/system/Box';
 import Card from './Card';
 
 export default function Resources() {
