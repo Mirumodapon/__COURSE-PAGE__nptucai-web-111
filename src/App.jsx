@@ -12,7 +12,7 @@ import Info from './Info';
 import './index.css';
 
 export default function App() {
-  const [value, setValue] = React.useState('home');
+  const [value, setValue] = React.useState('Home');
 
   const handleChange = (_, newValue) => {
     setValue(newValue);
