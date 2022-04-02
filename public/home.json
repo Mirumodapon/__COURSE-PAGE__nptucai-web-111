@@ -18,7 +18,7 @@
   "announce": [
     {
       "title": "[公告] 放假一次",
-      "content": "因連假，故放假一次",
+      "content": "**因連假**，==故==~~放假~~一次\n\n [11111t](https://mirumo.org)",
       "iat": "Apr 2, 2022"
     }
   ]

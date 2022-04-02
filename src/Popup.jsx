@@ -6,6 +6,8 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 
+import Markdown from './Markdown';
+
 export default function ScrollDialog({ open, handleClose, content, title }) {
   const descriptionElementRef = useRef(null);
   useEffect(() => {
@@ -33,7 +35,7 @@ export default function ScrollDialog({ open, handleClose, content, title }) {
             ref={descriptionElementRef}
             tabIndex={-1}
           >
-            {content}
+            <Markdown>{content}</Markdown>
           </DialogContentText>
         </DialogContent>
         <DialogActions>

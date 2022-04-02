@@ -3,6 +3,7 @@ import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
+import Markdown from './Markdown';
 
 export default function MyCard({ title, content, link }) {
   return (
@@ -12,7 +13,7 @@ export default function MyCard({ title, content, link }) {
           {title}
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          {content}
+          <Markdown>{content}</Markdown>
         </Typography>
       </CardContent>
       <CardActions>
