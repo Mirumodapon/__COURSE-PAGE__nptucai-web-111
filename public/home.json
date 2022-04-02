@@ -14,5 +14,12 @@
       "content": "This is something error.",
       "description": ""
     }
+  ],
+  "announce": [
+    {
+      "title": "[公告] 放假一次",
+      "content": "因連假，故放假一次",
+      "iat": "Apr 2, 2022"
+    }
   ]
 }
