@@ -1,7 +1,0 @@
-[
-  { "tag": "Hello", "cards": [{ "title": "Cards", "content": "content", "link": [] }] },
-  {
-    "tag": "Hello",
-    "cards": [{ "title": "Cards", "content": "**content**<mark>hello</mark>", "link": [] }]
-  }
-]

@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   useEffect(function () {
-    fetch('/home.json')
+    fetch('/API/home.json')
       .then((x) => x.json())
       .then(({ name, alert, announce }) => {
         setName(name);
@@ -35,7 +35,7 @@ export default function Home() {
 
   return (
     <>
-      <Stack sx={{ width: '100%' }} spacing={2}>
+      <Stack sx={{ width: '80%', margin: 'auto' }} spacing={2}>
         {alert.map(({ type, content }, index) => (
           <Alert
             key={index}

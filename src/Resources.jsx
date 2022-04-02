@@ -6,7 +6,7 @@ export default function Resources() {
   const [resources, setResources] = useState([]);
 
   useEffect(function () {
-    fetch('/resources.json')
+    fetch('/API/resources.json')
       .then((x) => x.json())
       .then((x) => {
         setResources(x);

@@ -1,0 +1,17 @@
+{
+  "name": "Template",
+  "alert": [
+    {
+      "type": "error | warning | info | succeed",
+      "title": "",
+      "content": ""
+    }
+  ],
+  "announce": [
+    {
+      "title": "",
+      "content": "support markdown",
+      "iat": ""
+    }
+  ]
+}

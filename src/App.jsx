@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Box from '@mui/material/Box';
 import Tab from '@mui/material/Tab';
 import TabContext from '@mui/lab/TabContext';
@@ -12,9 +12,9 @@ import Info from './Info';
 import './index.css';
 
 export default function App() {
-  const [value, setValue] = React.useState('Home');
+  const [value, setValue] = React.useState('home');
 
-  const handleChange = (event, newValue) => {
+  const handleChange = (_, newValue) => {
     setValue(newValue);
   };
 
