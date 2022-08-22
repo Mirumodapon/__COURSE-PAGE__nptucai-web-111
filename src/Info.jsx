@@ -6,7 +6,7 @@ export default function Info() {
   const [section, setSection] = useState([]);
 
   useEffect(function () {
-    fetch('/API/info.json')
+    fetch('/nptucsai-111-web_course/API/info.json')
       .then((x) => x.json())
       .then((x) => {
         setSection(x);

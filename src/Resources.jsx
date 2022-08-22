@@ -6,7 +6,7 @@ export default function Resources() {
   const [resources, setResources] = useState([]);
 
   useEffect(function () {
-    fetch('/API/resources.json')
+    fetch('/nptucsai-111-web_course/API/resources.json')
       .then((x) => x.json())
       .then((x) => {
         setResources(x);
