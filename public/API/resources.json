@@ -6,10 +6,10 @@
                 "title": "Overview",
                 "content": "介紹相關知識，以及課程介紹。",
                 "link": [{ "label": "slide", "url": "/slides/overview.pdf" }]
-            },{
-                "title": "Git 版本管理",
-                "content": "git 入門介紹",
-                "link": [{ "label": "slide", "url": "/slides/git.pdf" }]
+            }, {
+                "title": "About Web",
+                "content": "網頁的運作(HTML, CSS, JavaScript)",
+                "link": []
             }
         ]
     }
