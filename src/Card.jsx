@@ -12,13 +12,16 @@ export default function MyCard({ title, content, link }) {
         <Typography gutterBottom variant="h5" component="div">
           {title}
         </Typography>
-        <Typography variant="body2" color="text.secondary">
-          <Markdown>{content}</Markdown>
-        </Typography>
+        <Markdown>{content}</Markdown>
       </CardContent>
       <CardActions>
-        {link.map((x) => (
-          <Link sx={{ fontSize: '1.2em', margin: '0 8px' }} variant="body1" href={x.url}>
+        {link.map((x, n) => (
+          <Link
+            sx={{ fontSize: '1.2em', margin: '0 8px' }}
+            variant="body1"
+            href={`${window.location.href}${x.url}`}
+            key={n}
+          >
             {x.label}
           </Link>
         ))}

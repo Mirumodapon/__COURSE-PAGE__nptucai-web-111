@@ -5,11 +5,13 @@
             {
                 "title": "Overview",
                 "content": "介紹相關知識，以及課程介紹。",
-                "link": [{ "label": "slide", "url": "/slides/overview.pdf" }]
+                "link": [{ "label": "slide", "url": "/slides/Overview.pdf" }]
             }, {
                 "title": "About Web",
                 "content": "網頁的運作(HTML, CSS, JavaScript)",
-                "link": []
+                "link": [
+                    {"label": "html", "url": "/slides/html-instroduction.pdf"}
+                ]
             }
         ]
     }
