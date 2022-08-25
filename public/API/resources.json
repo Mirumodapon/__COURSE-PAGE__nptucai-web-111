@@ -10,7 +10,7 @@
                 "title": "About Web",
                 "content": "網頁的運作(HTML, CSS, JavaScript)",
                 "link": [
-                    {"label": "html", "url": "/slides/html-instroduction.pdf"}
+                    {"label": "html", "url": "/slides/html-css-instroduction.pdf"}
                 ]
             }
         ]
