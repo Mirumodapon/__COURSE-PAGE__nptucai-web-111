@@ -24,7 +24,6 @@ export default function App() {
         <TabList onChange={handleChange} centered>
           <Tab label="Home" value="Home" />
           <Tab label="Resources" value="Resources" />
-          <Tab label="Info" value="Info" />
         </TabList>
       </Box>
       <TabPanel value="Home">
