@@ -13,10 +13,10 @@
         "tag": "09/14",
         "cards": [
             {
-                "title": "About Web",
-                "content": "網頁的運作(HTML, CSS, JavaScript)",
+                "title": "Environment Setup",
+                "content": "介紹開發工具＆設置環境",
                 "link": [
-                    {"label": "html & css", "url": "/slides/html-css-instroduction.pdf"}
+                    {"label": "Slide", "url": "/slides/environment-setup.pdf"}
                 ]
             }
         ]
