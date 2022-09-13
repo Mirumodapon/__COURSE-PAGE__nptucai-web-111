@@ -18,6 +18,15 @@
                 "link": [
                     {"label": "Slide", "url": "/slides/environment-setup.pdf"}
                 ]
+            },
+            {
+                "title": "Web Introduction",
+                "content": "網站架構簡介",
+                "link": [
+                    {"label": "HTML", "url": "/slides/html-introduction.pdf"},
+                    {"label": "CSS", "url": "/slides/css-introduction.pdf"}
+                ]
+
             }
         ]
     }
