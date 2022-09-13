@@ -23,7 +23,7 @@
                 "title": "Web Introduction",
                 "content": "網站架構簡介",
                 "link": [
-                    {"label": "HTML", "url": "/slides/html-introduction.pdf"},
+                    {"label": "HTML", "url": "/slides/html-instroduction.pdf"},
                     {"label": "CSS", "url": "/slides/css-introduction.pdf"}
                 ]
 
