@@ -10,7 +10,7 @@ export default function Markdown({ children }) {
       components={{
         a: ({ node, ...props }) => <Link {...props} />,
         p: ({ node, ...props }) => <Typography varient="body2" color="text.secondary" {...props} />,
-        img: ({node, ...prop}) => <img {...prop} width="100%"/>
+        img: ({node, ...prop}) => <img {...prop} alt={prop?.alt || "null"} width="100%"/>
       }}
       remarkPlugins={[remarkGfm]}
       rehypePlugins={[rehypeRaw]}
