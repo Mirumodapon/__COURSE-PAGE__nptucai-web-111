@@ -16,7 +16,18 @@
         {
             "title": "上課主題",
             "content": "![overview](/nptucsai-111-web_course/image/overview.001.jpeg)",
-            "iat": "12/31"
+            "iat": "09/13"
+        },
+        {
+            "title": "[錯誤修正] Environment Setup",
+            "content": "9/14 簡報（Environment Setup）第 8 頁\n\n-) Create a Account on GitHub\n\n+)Create an Account on Github",
+            "iat": "09/14"
+        },
+        {
+
+            "title": "[錯誤修正] html instroduction",
+            "content": "9/14 簡報（html instroduction）第 7 頁\n\n-) MND Web Docs\n\n+) MDN Web Docs",
+            "iat": "09/14"
         }
     ]
 }
