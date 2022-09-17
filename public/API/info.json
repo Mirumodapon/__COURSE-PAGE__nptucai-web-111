@@ -1,11 +1,10 @@
 [
   {
     "title": "Overview",
-    "content": "- [課堂簡報](https://mirumodapon.github.io/nptucsai-111-web_course/slides/Overview.pdf)"
+    "content": "- [課堂簡介](https://mirumodapon.github.io/nptucsai-111-web_course/slides/Overview.pdf)\n- [環境設置](https://mirumodapon.github.io/nptucsai-111-web_course/slides/environment-setup.pdf)"
   }, 
   {
     "title": "HTML",
-    "content": "- [課堂簡報](https://mirumodapon.github.io/nptucsai-111-web_course/slides/html-instroduction.pdf)"
+    "content": "- [課堂簡報](https://mirumodapon.github.io/nptucsai-111-web_course/slides/html-instroduction.pdf)\n- [W3School](https://www.w3schools.com/tags/)\n- [ MND Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)"
   }
-  
 ]

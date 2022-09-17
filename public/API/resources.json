@@ -26,7 +26,18 @@
                     {"label": "HTML", "url": "slides/html-instroduction(1).pdf"},
                     {"label": "CSS", "url": "slides/css-introduction.pdf"}
                 ]
-
+            }
+        ]
+    },
+    {
+        "tag": "09/21",
+        "cards": [
+            {
+                "title": "Web Introduction",
+                "content": "網站架構簡介",
+                "link": [
+                    {"label": "HTML", "url": "slides/html-instroduction(2).pdf"}
+                ]
             }
         ]
     }
