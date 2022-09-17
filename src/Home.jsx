@@ -53,7 +53,7 @@ export default function Home() {
         <Box sx={{ height: 400 }}>
           <DataGrid
             onRowClick={rowOnClick}
-            rows={announce}
+            rows={announce.reverse()}
             columns={column}
             rowsPerPageOptions={[10, 15, 20]}
           />
