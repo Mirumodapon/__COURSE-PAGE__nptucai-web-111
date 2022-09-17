@@ -23,7 +23,8 @@ export default function App() {
       <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
         <TabList onChange={handleChange} centered>
           <Tab label="Home" value="Home" />
-          <Tab label="Resources" value="Resources" />
+          <Tab label="Courses" value="Resources" />
+          <Tab label="Resources" value="Info" />
         </TabList>
       </Box>
       <TabPanel value="Home">

@@ -5,7 +5,7 @@
             {
                 "title": "Overview",
                 "content": "介紹相關知識，以及課程介紹。",
-                "link": [{ "label": "slide", "url": "/slides/Overview.pdf" }]
+                "link": [{ "label": "slide", "url": "slides/Overview.pdf" }]
             }
         ]
     },
@@ -16,15 +16,15 @@
                 "title": "Environment Setup",
                 "content": "介紹開發工具＆設置環境",
                 "link": [
-                    {"label": "Slide", "url": "/slides/environment-setup.pdf"}
+                    {"label": "Slide", "url": "slides/environment-setup.pdf"}
                 ]
             },
             {
                 "title": "Web Introduction",
                 "content": "網站架構簡介",
                 "link": [
-                    {"label": "HTML", "url": "/slides/html-instroduction.pdf"},
-                    {"label": "CSS", "url": "/slides/css-introduction.pdf"}
+                    {"label": "HTML", "url": "slides/html-instroduction(1).pdf"},
+                    {"label": "CSS", "url": "slides/css-introduction.pdf"}
                 ]
 
             }
