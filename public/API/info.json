@@ -6,5 +6,9 @@
   {
     "title": "HTML",
     "content": "- [課堂簡報](https://mirumodapon.github.io/nptucsai-111-web_course/slides/html-instroduction.pdf)\n- [W3School](https://www.w3schools.com/tags/)\n- [ MND Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)"
+  },
+  {
+    "title": "CSS",
+    "content": "- [課堂簡報(1)](https://mirumodapon.github.io/nptucsai-111-web_course/slides/css-instroduction(1).pdf)\n- [課堂簡報(2)](https://mirumodapon.github.io/nptucsai-111-web_course/slides/css-instroduction(2).pdf)"
   }
 ]

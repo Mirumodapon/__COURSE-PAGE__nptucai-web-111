@@ -24,7 +24,7 @@
                 "content": "網站架構簡介",
                 "link": [
                     {"label": "HTML", "url": "slides/html-instroduction(1).pdf"},
-                    {"label": "CSS", "url": "slides/css-introduction.pdf"}
+                    {"label": "CSS", "url": "slides/css-instroduction(1).pdf"}
                 ]
             }
         ]
@@ -36,7 +36,8 @@
                 "title": "Web Introduction",
                 "content": "網站架構簡介",
                 "link": [
-                    {"label": "HTML", "url": "slides/html-instroduction(2).pdf"}
+                    {"label": "HTML", "url": "slides/html-instroduction(2).pdf"},
+                    {"label": "CSS", "url": "slides/css-instroduction(2).pdf"}
                 ]
             }
         ]
