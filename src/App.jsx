@@ -8,6 +8,7 @@ import TabPanel from '@mui/lab/TabPanel';
 import Home from './Home';
 import Resources from './Resources';
 import Info from './Info';
+import Foo from './Foo';
 
 import './index.css';
 
@@ -25,6 +26,7 @@ export default function App() {
           <Tab label="Home" value="Home" />
           <Tab label="Courses" value="Resources" />
           <Tab label="Resources" value="Info" />
+          <Tab label="回饋以及建議表單" value="foo" />
         </TabList>
       </Box>
       <TabPanel value="Home">
@@ -35,6 +37,9 @@ export default function App() {
       </TabPanel>
       <TabPanel value="Info">
         <Info />
+      </TabPanel>
+      <TabPanel value="foo">
+        <Foo />
       </TabPanel>
     </TabContext>
   );
