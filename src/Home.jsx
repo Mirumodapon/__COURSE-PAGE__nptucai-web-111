@@ -24,7 +24,7 @@ export default function Home() {
   };
 
   useEffect(function () {
-    fetch('/nptucsai-111-web_course/API/home.json')
+    fetch('/__COURSE-PAGE__nptucai-web-111/API/home.json')
       .then((x) => x.json())
       .then(({ name, alert, announce }) => {
         setName(name);
