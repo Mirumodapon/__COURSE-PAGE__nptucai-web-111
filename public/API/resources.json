@@ -33,10 +33,22 @@
         "tag": "09/21",
         "cards": [
             {
-                "title": "Web Introduction",
+                "title": "Web Introduction(2)",
                 "content": "網站架構簡介",
                 "link": [
                     {"label": "HTML", "url": "slides/html-instroduction(2).pdf"},
+                    {"label": "CSS", "url": "slides/css-instroduction(2).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "09/21",
+        "cards": [
+            {
+                "title": "Web Introduction(3)",
+                "content": "網站架構簡介",
+                "link": [
                     {"label": "CSS", "url": "slides/css-instroduction(2).pdf"}
                 ]
             }
