@@ -15,7 +15,7 @@
 
         {
             "title": "上課主題",
-            "content": "![overview](/nptucsai-111-web_course/image/overview.001.jpeg)",
+            "content": "![overview](/__COURSE-PAGE__nptucai-web-111/image/overview.001.jpeg)",
             "iat": "09/13"
         },
         {
