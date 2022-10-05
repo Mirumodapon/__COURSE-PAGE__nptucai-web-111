@@ -53,5 +53,24 @@
                 ]
             }
         ]
+    },
+    {
+        "tag": "09/21",
+        "cards": [
+            {
+                "title": "git",
+                "content": "版本控制",
+                "link": [
+                    {"label": "slide", "url": "slides/git.pdf"}
+                ]
+            },
+            {
+                "title": "JavaScript Instroduction",
+                "content": "JavaScript 介紹",
+                "link": [
+                    {"label": "slide", "url": "slides/javascript-instroduction.pdf"}
+                ]
+            }
+        ]
     }
 ]
