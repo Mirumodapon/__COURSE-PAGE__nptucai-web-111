@@ -66,9 +66,21 @@
             },
             {
                 "title": "JavaScript Instroduction",
-                "content": "JavaScript 介紹",
+                "content": "JavaScript 介紹(1)",
                 "link": [
-                    {"label": "slide", "url": "slides/javascript-instroduction.pdf"}
+                    {"label": "slide", "url": "slides/javascript-instroduction(1).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "10/12",
+        "cards": [
+            {
+                "title": "JavaScript Instroduction(1)",
+                "content": "JavaScript 介紹(2)",
+                "link": [
+                    {"label": "slide", "url": "slides/javascript-instroduction(2).pdf"}
                 ]
             }
         ]
