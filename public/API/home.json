@@ -28,6 +28,16 @@
             "title": "[錯誤修正] html instroduction",
             "content": "9/14 簡報（html instroduction）第 7 頁\n\n-) MND Web Docs\n\n+) MDN Web Docs",
             "iat": "09/14"
+        },
+        {
+            "title": "[錯誤修正] css instroduction(2)",
+            "content": "9/21, 9/28 簡報 第 10 頁\n\n partent -> parent",
+            "iat": "9/22"
+        },
+        {
+            "title": "[錯誤修正] 10/06 簡報",
+            "content": "- git\n\n學校不會叫的版本控制 -> 學校不會教的版本控制",
+            "iat": "10/06"
         }
     ]
 }
