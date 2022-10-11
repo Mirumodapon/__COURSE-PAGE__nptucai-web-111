@@ -65,7 +65,7 @@
                 ]
             },
             {
-                "title": "JavaScript Instroduction(1)",
+                "title": "JavaScript Introduction(1)",
                 "content": "JavaScript 介紹(1)",
                 "link": [
                     {"label": "slide", "url": "slides/javascript-instroduction(1).pdf"}
@@ -77,7 +77,7 @@
         "tag": "10/12",
         "cards": [
             {
-                "title": "JavaScript Instroduction(2)",
+                "title": "JavaScript Introduction(2)",
                 "content": "JavaScript 介紹(2)",
                 "link": [
                     {"label": "slide", "url": "slides/javascript-introduction(2).pdf"}
