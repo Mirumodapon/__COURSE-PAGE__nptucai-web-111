@@ -84,5 +84,18 @@
                 ]
             }
         ]
+    },
+    {
+        "tag": "10/19",
+        "cards": [
+            {
+                "title": "vue.js",
+                "content": "Frontend Framework - Vue.js",
+                "link": [
+                    {"label": "slide", "url": "slides/vue.js.pdf"}
+                ]
+            }
+        ]
+
     }
 ]
