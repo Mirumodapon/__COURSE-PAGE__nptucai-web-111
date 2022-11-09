@@ -19,7 +19,7 @@ export default function MyCard({ title, content, link }) {
           <Link
             sx={{ fontSize: '1.2em', margin: '0 8px' }}
             variant="body1"
-            href={`${window.location.href}${x.url}`}
+            href={x.url.find('http') ? x.url : `${window.location.href}${x.url}`}
             key={n}
           >
             {x.label}
