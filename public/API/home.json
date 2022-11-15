@@ -41,7 +41,8 @@
         },
         {
             "title": "[公告] 相關證明需求申請表單",
-            "content": "大家！如果有上課證明相關需求，麻煩填寫下方表單！\n\nhttps://forms.gle/rvmBuPeU9z4LnxzE6"
+            "content": "大家！如果有上課證明相關需求，麻煩填寫下方表單！\n\nhttps://forms.gle/rvmBuPeU9z4LnxzE6",
+            "iat": "11/10"
         }
     ]
 }
