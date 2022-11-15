@@ -112,5 +112,15 @@
 
 
 
+    },
+    {
+        "tag": "11/16",
+        "cards": [
+            {
+                "title": "Dcard clone example2",
+                "content": "實作練習",
+                "link": [{"label": "template","rul": "https://github.com/Mirumodapon/__EXAMPLE__nptucsai-web-111/tree/dcard2"}]
+            }
+
     }
 ]
