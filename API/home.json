@@ -1,0 +1,48 @@
+{
+    "name": "",
+    "alert": [],
+    "announce": [
+        {
+            "title": "第一次上課時間為 09/07",
+            "content": "【活動】國立屏東大學電腦科學與人工智慧學系 網站技術分享暨課程\n\n上課目標 | 培訓學生網路的基本知識，以及網站前後端開發的相關技術。\n\n上課對象 | 資訊學院學生或有興趣之校內學生，本次為新課程，初學者亦可參加。\n\n上課日期 |  111年 09 月 07 日起 每週三至學期結束止，若有停課（如期中、末考）將另行通知。\n\n上課時間 |  每次 18：30 - 21：00\n\n上課地點 |  電腦教室A（五育樓B1）",
+            "iat": "09/05"
+        },
+        {
+            "title": "[錯誤修正] Overview Slide",
+            "content": "9/7 簡報（Overview) 第 24 頁，第二點\n\nSample -> Simple",
+            "iat": "09/07"
+        },
+
+        {
+            "title": "上課主題",
+            "content": "![overview](/__COURSE-PAGE__nptucai-web-111/image/overview.001.jpeg)",
+            "iat": "09/13"
+        },
+        {
+            "title": "[錯誤修正] Environment Setup",
+            "content": "9/14 簡報（Environment Setup）第 8 頁\n\n-) Create a Account on GitHub\n\n+)Create an Account on Github",
+            "iat": "09/14"
+        },
+        {
+
+            "title": "[錯誤修正] html instroduction",
+            "content": "9/14 簡報（html instroduction）第 7 頁\n\n-) MND Web Docs\n\n+) MDN Web Docs",
+            "iat": "09/14"
+        },
+        {
+            "title": "[錯誤修正] css instroduction(2)",
+            "content": "9/21, 9/28 簡報 第 10 頁\n\n partent -> parent",
+            "iat": "9/22"
+        },
+        {
+            "title": "[錯誤修正] 10/06 簡報",
+            "content": "- git\n\n學校不會叫的版本控制 -> 學校不會教的版本控制",
+            "iat": "10/06"
+        },
+        {
+            "title": "[公告] 相關證明需求申請表單",
+            "content": "大家！如果有上課證明相關需求，麻煩填寫下方表單！\n\nhttps://forms.gle/rvmBuPeU9z4LnxzE6",
+            "iat": "11/10"
+        }
+    ]
+}

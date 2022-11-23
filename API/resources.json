@@ -1,0 +1,138 @@
+[
+    {
+        "tag": "09/07",
+        "cards": [
+            {
+                "title": "Overview",
+                "content": "介紹相關知識，以及課程介紹。",
+                "link": [{ "label": "slide", "url": "slides/Overview.pdf" }]
+            }
+        ]
+    },
+    {
+        "tag": "09/14",
+        "cards": [
+            {
+                "title": "Environment Setup",
+                "content": "介紹開發工具＆設置環境",
+                "link": [
+                    {"label": "Slide", "url": "slides/environment-setup.pdf"}
+                ]
+            },
+            {
+                "title": "Web Introduction",
+                "content": "網站架構簡介",
+                "link": [
+                    {"label": "HTML", "url": "slides/html-instroduction(1).pdf"},
+                    {"label": "CSS", "url": "slides/css-instroduction(1).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "09/21",
+        "cards": [
+            {
+                "title": "Web Introduction(2)",
+                "content": "網站架構簡介",
+                "link": [
+                    {"label": "HTML", "url": "slides/html-instroduction(2).pdf"},
+                    {"label": "CSS", "url": "slides/css-instroduction(2).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "09/28",
+        "cards": [
+            {
+                "title": "Web Introduction(3)",
+                "content": "網站架構簡介",
+                "link": [
+                    {"label": "CSS", "url": "slides/css-instroduction(2).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "10/05",
+        "cards": [
+            {
+                "title": "git",
+                "content": "版本控制",
+                "link": [
+                    {"label": "slide", "url": "slides/git.pdf"}
+                ]
+            },
+            {
+                "title": "JavaScript Introduction(1)",
+                "content": "JavaScript 介紹(1)",
+                "link": [
+                    {"label": "slide", "url": "slides/javascript-instroduction(1).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "10/12",
+        "cards": [
+            {
+                "title": "JavaScript Introduction(2)",
+                "content": "JavaScript 介紹(2)",
+                "link": [
+                    {"label": "slide", "url": "slides/javascript-introduction(2).pdf"}
+                ]
+            }
+        ]
+    },
+    {
+        "tag": "10/19",
+        "cards": [
+            {
+                "title": "vue.js",
+                "content": "Frontend Framework - Vue.js",
+                "link": [
+                    {"label": "slide", "url": "slides/vue.js.pdf"}
+                ]
+            }
+        ]
+
+    },
+    {
+        "tag": "11/09",
+        "cards": [
+            {
+                "title": "Dcard clone example",
+                "content": "實作練習",
+                "link": [
+                    {"label": "template", "url": "https://github.com/Mirumodapon/__EXAMPLE__nptucsai-web-111/tree/dcard"}
+                ]
+            }
+        ]
+
+
+
+    },
+    {
+        "tag": "11/16",
+        "cards": [
+            {
+                "title": "Dcard clone example2",
+                "content": "實作練習",
+                "link": [{"label": "template","url": "https://github.com/Mirumodapon/__EXAMPLE__nptucsai-web-111/tree/dcard2"}]
+            }
+        ]
+
+    },
+    {
+
+        "tag": "11/23",
+        "cards": [
+            {
+                "title": "express",
+                "content": "backend practive",
+               "link": [{"label": "express.js", "url": "slides/express.pdf"}]
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/__COURSE-PAGE__nptucai-web-111/static/css/main.f82bb9ea.css",
+    "main.js": "/__COURSE-PAGE__nptucai-web-111/static/js/main.73ebe96c.js",
+    "index.html": "/__COURSE-PAGE__nptucai-web-111/index.html",
+    "main.f82bb9ea.css.map": "/__COURSE-PAGE__nptucai-web-111/static/css/main.f82bb9ea.css.map",
+    "main.73ebe96c.js.map": "/__COURSE-PAGE__nptucai-web-111/static/js/main.73ebe96c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82bb9ea.css",
+    "static/js/main.73ebe96c.js"
+  ]
+}
